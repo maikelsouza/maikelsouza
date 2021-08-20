@@ -1,5 +1,5 @@
 - 🔭 Hoje eu estou trabalhando com Java back-end
-- 🌱 Eu estou estudando Spring Boot, Spring Securit, Spring Data & JPA, Thymeleaf e etc
+- 🌱 Eu estou estudando Spring Boot, Spring Securit, Spring Data & JPA, Spring Rest, Thymeleaf e etc
 
 <!--
 **maikelsouza/maikelsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
