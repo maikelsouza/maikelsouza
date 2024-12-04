@@ -1,4 +1,4 @@
-- 🔭 Hoje eu estou trabalhando com Java back-end
+- 🔭 Hoje eu estou trabalhando com Java back-end e Angular Front-end
 - 🌱 Eu estou estudando Spring Boot, Spring Securit, Spring Data & JPA, Spring Rest, Thymeleaf e etc
 
 <!--
