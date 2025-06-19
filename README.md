@@ -1,6 +1,8 @@
 - 🔭 Hoje eu estou trabalhando com Java back-end e Angular Front-end
 - 🌱 Eu estou estudando Spring Boot, Spring Securit, Spring Data & JPA, Spring Rest, Thymeleaf e etc
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maikelsouza&show_icons=true&theme=dark)
 <!--
 **maikelsouza/maikelsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
